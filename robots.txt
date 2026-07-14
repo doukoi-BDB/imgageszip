@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imgagezip.work/sitemap.xml
