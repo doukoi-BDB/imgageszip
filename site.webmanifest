@@ -1,0 +1,16 @@
+{
+  "name": "ZipPix Image Compressor",
+  "short_name": "ZipPix",
+  "description": "A private, browser-based image compressor.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#2557d6",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
